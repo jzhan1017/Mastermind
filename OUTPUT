@@ -1,0 +1,42 @@
+Welcome to MasterMind! 
+Enter the number of positions you want to play with: 6
+Enter the number of colors you want to play with: 6
+Now enter the different types of colors you want to play with: 
+Enter color #1: RED
+Enter color #2: BLUE
+Enter color #3: YELLOW
+Enter color #4: GREEN
+Enter color #5: PURPLE
+Enter color #6: ORANGE
+Now come up with a secret code in your mind. Once you have done so, press enter to continue. 
+//Thought of code [ORANGE, ORANGE, ORANGE, ORANGE, ORANGE, ORANGE] (you keep this at heart)
+Guess number: 1
+This is the computer's guess: [ORANGE, YELLOW, ORANGE, YELLOW, ORANGE, RED]
+Enter the number of correct positions between your code and the computer's guess: 3
+Enter the number of incorrect positions but correct color between your code and the computer's guess: 0
+Guess number: 2
+This is the computer's guess: [RED, YELLOW, ORANGE, YELLOW, GREEN, PURPLE]
+Enter the number of correct positions between your code and the computer's guess: 1
+Enter the number of incorrect positions but correct color between your code and the computer's guess: 0
+Guess number: 3
+This is the computer's guess: [ORANGE, PURPLE, ORANGE, PURPLE, ORANGE, BLUE]
+Enter the number of correct positions between your code and the computer's guess: 2
+Enter the number of incorrect positions but correct color between your code and the computer's guess: 0
+Invalid input... please try again. 
+Enter the number of correct positions between your code and the computer's guess: 3
+Enter the number of incorrect positions but correct color between your code and the computer's guess: 0
+Guess number: 4
+This is the computer's guess: [ORANGE, GREEN, ORANGE, GREEN, ORANGE, ORANGE]
+Enter the number of correct positions between your code and the computer's guess: 4
+Enter the number of incorrect positions but correct color between your code and the computer's guess: 0
+Guess number: 5
+This is the computer's guess: [ORANGE, ORANGE, ORANGE, BLUE, ORANGE, ORANGE]
+Enter the number of correct positions between your code and the computer's guess: 5
+Enter the number of incorrect positions but correct color between your code and the computer's guess: 0
+Guess number: 6
+This is the computer's guess: [ORANGE, ORANGE, ORANGE, ORANGE, ORANGE, ORANGE]
+Enter the number of correct positions between your code and the computer's guess: 6
+Enter the number of incorrect positions but correct color between your code and the computer's guess: 0
+The correct array is [ORANGE, ORANGE, ORANGE, ORANGE, ORANGE, ORANGE]
+Do you want to play again? Enter yes or no no
+Thanks for playing MasterMind!
